@@ -1,2 +1,2 @@
-# Vexxgen-
-Minecraft discord bot
+fast.ai
+design to load efficentley fast
